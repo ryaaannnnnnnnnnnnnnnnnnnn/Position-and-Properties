@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    padding: 20px;
+    font-family: sans-serif;
+    background: #efefef;
+}
+
+.relative {
+    position: relative;
+    background: #cc0000;
+    color: #ffffff;
+    padding: 30px;
+    top:100px;
+    left:100px;
+}
+
+.relative2 {
+    position: relative;
+    background: #cc0000;
+    color: #ffffff;
+    padding: 30px;
+    top:100px;
+    left:100px;
+}
+span {
+    padding: 5px;
+    border: 1px #ffffff dotted;
+}
